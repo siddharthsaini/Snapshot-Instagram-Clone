@@ -23,6 +23,23 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cloud_firestore: ^0.13.5
+  image_picker: ^0.6.5+2
+  firebase_storage: ^3.1.5
+  firebase_auth: ^0.16.0
+  google_sign_in: ^4.4.4
+  uuid: ^2.0.4
+  image: any
+  font_awesome_flutter: ^8.8.1
+  async: 
+  http: 
+  shared_preferences: 
+  cached_network_image: ^2.1.0+1
+  firebase_messaging: ^6.0.13
+  location: ^3.0.2
+  geocoder: ^0.2.1
+  flare_flutter: ^2.0.3
+  flutter_svg: ^0.17.4
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -74,3 +91,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+  - family: Billabong
+    fonts:
+    - asset: assets/fonts/Billabong.ttf
+  assets:
+  - assets/images/
+  - assets/flare/Like.flr
