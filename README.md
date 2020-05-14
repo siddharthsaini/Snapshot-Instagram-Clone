@@ -14,3 +14,8 @@ Snapshot is a working social networking app made with Flutter and Firebase inspi
  * Follow or Unfollow other users to see their posts on your Posts Feed 
  * View notifications based on user activity 
  * Change their personal information on profile page
+
+## App Video
+<p>
+  <img src="https://raw.githubusercontent.com/sidxharth/Snapshot-Instagram-Clone/master/gif" alt="GIF">
+</p>
