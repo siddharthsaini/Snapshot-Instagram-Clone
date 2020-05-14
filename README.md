@@ -1,16 +1,17 @@
 # Snapshot
 
-A new Flutter project.
+Snapshot is a working social networking app made with Flutter and Firebase inspired by Instagram.
 
-## Getting Started
+<p>
+  <img src="https://raw.githubusercontent.com/sidxharth/Snapshot-Instagram-Clone/master/poster.png" alt="Poster" width="500">
+</p>
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+● Create account using their email and password or login with Google 
+● Upload photos (directly from gallery or camera) with a caption and location 
+● Like (double tap) and Comment on their own and other users’ posts 
+● Search other users on the platform 
+● Follow or Unfollow other users to see their posts on your Posts Feed 
+● View notifications based on user activity 
+● Change their personal information on profile page
