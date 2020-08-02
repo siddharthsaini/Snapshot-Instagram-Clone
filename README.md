@@ -15,6 +15,11 @@ Snapshot is a working social networking app made with Flutter and Firebase inspi
  * View notifications based on user activity 
  * Change their personal information on profile page
  
+## Demo Video
+<p>
+  <img src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/gif" alt="GIF">
+</p>
+ 
 ## Documentation
  <p>
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/1.png">
@@ -40,8 +45,3 @@ Snapshot is a working social networking app made with Flutter and Firebase inspi
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/21.png">
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/22.png">
   </p>
-
-## App Video
-<p>
-  <img src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/gif" alt="GIF">
-</p>
