@@ -14,6 +14,32 @@ Snapshot is a working social networking app made with Flutter and Firebase inspi
  * Follow or Unfollow other users to see their posts on your Posts Feed 
  * View notifications based on user activity 
  * Change their personal information on profile page
+ 
+## Documentation
+ <p>
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/1.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/2.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/3.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/4.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/5.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/6.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/7.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/8.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/9.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/10.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/11.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/12.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/13.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/14.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/15.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/16.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/17.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/18.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/19.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/20.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/21.png">
+<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/22.png">
+  </p>
 
 ## App Video
 <p>
