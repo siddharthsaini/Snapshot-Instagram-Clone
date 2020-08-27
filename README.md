@@ -22,7 +22,6 @@ Snapshot is a working social networking app made with Flutter and Firebase inspi
  
 ## Documentation
  <p>
-<img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/1.png">
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/2.png">
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/3.png">
 <img alt="Snapshot" title="Snapshot" src="https://raw.githubusercontent.com/siddharthsaini/Snapshot-Instagram-Clone/master/Documentation%20Images/4.png">
